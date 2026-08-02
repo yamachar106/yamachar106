@@ -19,14 +19,6 @@ Infra     GitHub Actions · Fly.io · VPS (Ubuntu) · Syncthing
 Tools     Obsidian (SecondBrain) · yt-dlp · Playwright
 ```
 
-## Public Projects
-
-| Project | Description |
-|---------|-------------|
-| [inv_sentinel](https://github.com/yamachar106/inv_sentinel) | 黒字転換2倍株スクリーニング自動化 |
-| [mcp-yfinance-server](https://github.com/yamachar106/mcp-yfinance-server) | Stock API + MCP server (yfinance) |
-| [baseball-db](https://github.com/yamachar106/baseball-db) | 少年野球データ集計Webアプリ |
-
 ---
 
 *AI活用・業務自動化・案件獲得の相談はお気軽に*
