@@ -1,4 +1,4 @@
-# 山崎透 / Toru Yamazaki
+# 山崎透 / Toru Yamasaki
 
 **カチカ合同会社 代表** | AI × 受託 × 自動投資
 
